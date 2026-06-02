@@ -1,4 +1,4 @@
-# 🖐️ Hand Gesture Volume Control
+# Hand Gesture Volume Control
 
 Control your computer's volume using hand gestures — no keyboard, no mouse!  
 Built with Python, OpenCV, and MediaPipe.
